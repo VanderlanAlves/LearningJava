@@ -1,1 +1,1 @@
-# LearningJava with Eclipse IDE
+# Learning Java with Eclipse IDE
