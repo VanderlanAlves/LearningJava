@@ -21,6 +21,7 @@ public class cliente
 		this.codigo=codigo;
 	}
 
+	//MÉTODOS
 	public String getNome() {
 		return nome;
 	}
