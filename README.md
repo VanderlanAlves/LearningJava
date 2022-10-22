@@ -1,2 +1,1 @@
-# Learning Java with Eclipse IDE
-Alguns exercícios de Java para o curso de desenvolvedor Full Stack da Generation Brasil.
+Exercícios Java - Full Stack developer Generation Brasil (Classes, Objetos, Heranca, Encapsulamento, For, Arrays, Classes) 
